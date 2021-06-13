@@ -96,10 +96,10 @@ a{
 }
 
 /******************************** media queries ********************************/
-@media only screen and (min-width:800px){
-	/* body{
+@media only screen and (min-width:600px){
+	body{
 		background-color:red;
-	} */
+	}
 	#sedans{
 		flex:1;
 		border:1px solid hsl(31, 77%, 52%);
