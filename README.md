@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Daodueben/card.git)
+- Solution URL: [https://github.com/Daodueben/card.git](https://github.com/Daodueben/card.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -68,8 +68,8 @@ In later development, i want to get comfortable to using the media query, for no
 
 ### Useful resources
 
-- [resource 1](https://www.w3schools.com) - This helped me for the media query section. I really liked this pattern and will use it going forward.
-- [resource 2](https://www.developer.mozilla.org) - This helped me for the importing or adding of google font link to my website. I'd recommend it to anyone still learning this concept.
+- [https://www.w3schools.com](https://www.w3schools.com) - This helped me for the media query section. I really liked this pattern and will use it going forward.
+- [https://www.developer.mozilla.org](https://www.developer.mozilla.org) - This helped me for the importing or adding of google font link to my website. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
