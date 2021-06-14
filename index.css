@@ -5,7 +5,7 @@ html{
 
 #container{
 	display: flex;
-	/* flex-direction: column; */
+	flex-direction: column;
 	flex-wrap:wrap;
 	border-radius:5px;
 	margin: 0 auto;
@@ -99,6 +99,16 @@ a{
 @media only screen and (min-width:641px){
 	body{
 		background-color:red;
+	}
+
+	#container{
+		display: flex;
+		flex-direction: row;
+		flex-wrap:wrap;
+		border-radius:5px;
+		margin: 0 auto;
+		margin-top:50px;
+		width:80%;
 	}
 	#sedans{
 		flex:1;
