@@ -101,7 +101,7 @@ a{
 }
 
 /******************************** media queries ********************************/
-@media only screen and (min-width:375px){
+/* @media only screen and (min-width:375px){
 	body{
 		background-color:red;
 	}
@@ -109,7 +109,7 @@ a{
 	#container{
 		display: flex;
 		flex-direction: row;
-		/* flex-wrap:wrap; */
+		flex-wrap:wrap;
 		border-radius:5px;
 		margin: 0 auto;
 		margin-top:50px;
@@ -141,4 +141,4 @@ a{
 		color:#ffffff;
 		padding: 3em;
 		}
-}
+} */
