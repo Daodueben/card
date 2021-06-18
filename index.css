@@ -102,9 +102,9 @@ a{
 
 /******************************** media queries ********************************/
  @media screen and (min-width:480px){
-	body{
+	/* body{
 		background-color:red;
-	}
+	} */
 
 	#container{
 		display: flex;
