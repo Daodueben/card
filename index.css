@@ -101,7 +101,7 @@ a{
 }
 
 /******************************** media queries ********************************/
-/* @media only screen and (min-width:375px){
+ @media screen and (min-width:480px){
 	body{
 		background-color:red;
 	}
@@ -141,4 +141,4 @@ a{
 		color:#ffffff;
 		padding: 3em;
 		}
-} */
+} 
