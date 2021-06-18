@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Daodueben/card.git](https://github.com/Daodueben/card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sad-cori-434922.netlify.app/](https://sad-cori-434922.netlify.app/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-What I learned during this project is how to use the flexbox wrap property. It helps to scale the design based on the user screen width. I also learnt how to add google font to my website.
+What I learned during this project is how to use the flexbox wrap property. It helps to scale the design based on the user screen width. I also learnt how to add google font to my website. I learnt the importance of the viewport tag. it's essential for a responsive design
 
 ```html
  <link rel="preconnect" href="https://fonts.gstatic.com">
